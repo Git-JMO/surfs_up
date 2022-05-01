@@ -17,7 +17,7 @@ Deliverable 2: Determine the Summary Statistics for December
 ## Results: 
    * Deliverable 1: Determine the Summary Statistics for June
      * The sqlalchemy **extract** function and Python were used to query June temperature data from our sql file. Once the query was successful, we created a dataframe that only contained the data we needed to analyze. Once we obtained our dataframe ("june_temp_df"), we were able to calculate and print out the summary statistics. See below image. 
-     *    
+     * ![June_temps_Summary](June_temps_Summary.png)   
      * Second Point: 
      * Third Point Use images as support where needed.
     * Deliverable 2: Determine the Summary Statistics for December

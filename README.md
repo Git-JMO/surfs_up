@@ -22,5 +22,6 @@
         * Min temps in December are lower than June: As pictured, a min temp of 56 degrees can be expected in December. This is an 8 degree difference when compared to June. Customers will likely be in need of a light jacket or sweater in the mornings and evenings. 
 
 ## Summary: 
-   * Overall, W. Avy has little to worry about regarding avg, min, and max temperatures on the beautiful island of Oahu. Temperature wise, ice cream and surfing can be considered year long hobbies and guaranteed business. However, I would recommend conducting two additional queries for June and December, specifically focusing on precipitation to make sure business will be steady. Similar to how we pulled data for Temperature in June and December, using SQL Alchemy and Python I was able to conduct these two queries and retrieved the following data:
-   * 
+   * Overall, W. Avy has little to worry about regarding avg, min, and max temperatures on the beautiful island of Oahu. Temperature wise, ice cream and surfing can be considered year long hobbies and guaranteed business. However, I would recommend conducting two additional queries for June and December, specifically focusing on precipitation to make sure business will be steady. Similar to how we pulled data for Temperature in June and December, using SQL Alchemy and Python I was able to conduct these two queries and retrieved the following summary data:
+   * ![JUNE PRECIP](JUNE_PRECIPITATION.png) ![DEC_PREC](DEC_PRECIP.png)
+   * As depicted above, there is minimal differences in precipitation when comparing June and December. The biggest difference was evident in the maximum precipitation numbers. Other than that, Oahu will still likely be an amazing place to open up a surf and ice cream shop. 

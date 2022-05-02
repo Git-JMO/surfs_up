@@ -19,6 +19,7 @@
       * Referencing the image above, there are three main datapoints that can be made from the December Temperature query. 
         * December in Oahu is not too different than June: With an average (mean) temp of ~71 degrees, December still has beautiful weather. With only an approximate 4 degree difference, W. Avy can be rest assured his customers will be comfortable and still in the mood for some icecream. 
         * Max temps in December similar to June: The max temp of ~83 in December is only a two degree difference than June. This is still an enjoyable climate for surfing and eating icecream. 
-        * Min temps in December are lower than June: As pictured, a min temp of 56 degrees can be expected in December. This is an 8 degree difference when compared to June. Clients will likely be in need of a light jacket or sweater in the mornings and evenings. 
+        * Min temps in December are lower than June: As pictured, a min temp of 56 degrees can be expected in December. This is an 8 degree difference when compared to June. Customers will likely be in need of a light jacket or sweater in the mornings and evenings. 
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
+   * Overall, W. Avy has little to worry about regarding avg, min, and max temperatures on the beautiful island of Oahu. Temperature wise, ice cream and surfing can be considered year long hobbies and guaranteed business. However, there are two additional queries that still need to be performed to gather more weather data for June and December.
